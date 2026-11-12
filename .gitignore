@@ -8,7 +8,6 @@ db/
 *.log
 .venv/
 venv/
-CLAUDE.md
 TODO.md
 HANDOFF.md
 .claude/
